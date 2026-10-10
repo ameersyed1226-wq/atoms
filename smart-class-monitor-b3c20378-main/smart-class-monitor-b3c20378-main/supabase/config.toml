@@ -1,0 +1,10 @@
+project_id = "xfxiyzipljnprwixkqbh"
+
+[functions.face-detect]
+verify_jwt = false
+
+[functions.send-daily-report]
+verify_jwt = false
+
+[functions.send-warning-email]
+verify_jwt = false

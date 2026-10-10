@@ -1,0 +1,6 @@
+{
+  "name": "CKCET Student Portal",
+  "description": "A high-fidelity, interactive Student Portal with login, registration, and student dashboard for CK College of Engineering and Technology.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

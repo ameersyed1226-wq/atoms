@@ -1,0 +1,6 @@
+{
+  "name": "Student Dashboard",
+  "description": "An interactive student portal providing comprehensive tools for monitoring attendance, grades, GPA calculations, leave requests, fee status, certificate and internship uploads, goals, and badges.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
